@@ -1,6 +1,6 @@
 # Pro Pack: a Claude Code setup for the $20 plan
 
-From the CodeCourt video **Master Claude's $20 Plan in 10 Minutes (Every Setting, Tested)**: 88 measured runs, every coding run graded by hidden tests.
+From the CodeCourt video **Master Claude's Tokens in 10 Minutes (Every Setting, Tested)**: 88 measured runs, every coding run graded by hidden tests.
 
 Two files and six habits. Every part is here because a measured test won; the parts that lost are listed at the end.
 
